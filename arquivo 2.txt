@@ -26,4 +26,9 @@ Envia o código para o GitHub
 
 Faça login no GitHub, se necessário
 
-8-As alterações devem aparecer no seu repositório no GitHub
+8-As alterações devem aparecer no seu repositório no GitHb
+
+
+*AGORA estamos da branch nova
+
+git checkout -b dev
